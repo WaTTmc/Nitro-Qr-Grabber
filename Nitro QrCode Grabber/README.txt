@@ -16,3 +16,7 @@ il va recevoir un mp de vous disant "Salut bg tu pourrais m'aider please ? Mon p
 puis si il est assez con il va scan le code qr est BAM, dans le serveur vous aurez son token,email,numéro.
 
 ----------------------Crédits------------------------------------
+Moi même mon discord エルワン#0001
+
+----------------------News------------------------------------
+Le code est en constante mise a jour les chose seront surment différentes a l'heure actuel
